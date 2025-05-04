@@ -1,0 +1,55 @@
+Início: Sun May 04 18:54:08 GMT-03:00 2025
+Slots encontrados: 34
+Restrições definidas: 73
+Assigning '#ED' to slot 5 (h_5_6_3)
+Assigning 'PAGER#' to slot 23 (v_0_6_6)
+Assigning 'SHAKESPEAREROLE' to slot 0 (h_0_0_15)
+Assigning 'AEOLID' to slot 26 (v_0_8_6)
+Assigning 'SOLFEGGIO' to slot 1 (h_2_0_9)
+Assigning 'SOSONATURALTALE' to slot 17 (v_0_0_15)
+Assigning 'NOWHEAR' to slot 3 (h_4_0_7)
+Assigning 'ABLOW' to slot 18 (v_0_2_5)
+Assigning 'EYETEST' to slot 20 (v_0_4_7)
+Assigning 'TODUTY' to slot 6 (h_6_0_6)
+Assigning 'Y2K' to slot 22 (v_6_5_3)
+Assigning '2MBLY' to slot 8 (h_7_5_5)
+Assigning 'EMBOG' to slot 25 (v_5_7_5)
+Assigning 'RESINK' to slot 9 (h_8_0_6)
+Assigning '4GO' to slot 11 (h_9_6_3)
+Assigning '403403' to slot 24 (v_9_6_6)
+Backtracking from slot 24
+Assigning '418402' to slot 24 (v_9_6_6)
+Backtracking from slot 24
+Assigning '4SCORE' to slot 24 (v_9_6_6)
+Assigning 'EATLIKEANANIMAL' to slot 16 (h_14_0_15)
+Assigning 'NYCTAXI' to slot 21 (v_8_4_7)
+Assigning 'LATICES' to slot 12 (h_10_0_7)
+Backtracking from slot 12
+Backtracking from slot 21
+Assigning 'NONNOSI' to slot 21 (v_8_4_7)
+Assigning 'DISHESOUT' to slot 19 (v_6_2_9)
+Assigning 'LIERNES' to slot 12 (h_10_0_7)
+Assigning 'ABOVO' to slot 14 (h_12_0_5)
+Assigning 'EQUALITYCONTROL' to slot 33 (v_0_14_15)
+Assigning 'IISRAEL' to slot 4 (h_4_8_7)
+Assigning 'ETHOSES' to slot 29 (v_0_10_7)
+Assigning 'HAIKU' to slot 2 (h_2_10_5)
+Assigning 'OKINAWANS' to slot 31 (v_0_12_9)
+Assigning 'USTART' to slot 7 (h_6_9_6)
+Assigning 'UYS' to slot 28 (v_6_9_3)
+Assigning 'SOCSEC' to slot 10 (h_8_9_6)
+Assigning 'ORGANON' to slot 30 (v_8_10_7)
+Assigning 'ORSENATOR' to slot 15 (h_12_6_9)
+Assigning 'ORISON' to slot 27 (v_9_8_6)
+Assigning 'REGROWN' to slot 13 (h_10_8_7)
+Backtracking from slot 13
+Assigning 'REGIMEN' to slot 13 (h_10_8_7)
+Backtracking from slot 13
+Assigning 'RUGBURN' to slot 13 (h_10_8_7)
+Backtracking from slot 13
+Assigning 'RIGODON' to slot 13 (h_10_8_7)
+Assigning 'DATUM' to slot 32 (v_10_12_5)
+Solução encontrada
+Grade preenchida escrita em: output2.txt
+Término: Sun May 04 18:54:09 GMT-03:00 2025
+Tempo total: 0,63 segundos

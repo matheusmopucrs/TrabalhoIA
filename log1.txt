@@ -1,0 +1,27 @@
+Início: Sun May 04 18:53:37 GMT-03:00 2025
+Slots encontrados: 20
+Restrições definidas: 31
+Assigning '#ED' to slot 13 (v_4_5_3)
+Assigning 'STRIKEZONES' to slot 3 (h_5_0_11)
+Assigning 'ELOIT' to slot 16 (v_3_7_5)
+Assigning 'OTAGE' to slot 5 (h_7_6_5)
+Assigning 'JETMASTER' to slot 19 (v_0_10_9)
+Assigning 'TELUM' to slot 2 (h_3_6_5)
+Assigning 'DIAL' to slot 17 (v_0_8_4)
+Assigning 'OAFS' to slot 15 (v_7_6_4)
+Assigning 'THEWOLFMAN' to slot 6 (h_9_0_10)
+Assigning 'AAAS' to slot 18 (v_7_8_4)
+Assigning 'PASSIVITY' to slot 7 (v_2_0_9)
+Assigning 'VNECK' to slot 4 (h_7_0_5)
+Assigning 'ENIAC' to slot 10 (v_3_3_5)
+Assigning 'KAON' to slot 12 (v_7_4_4)
+Assigning 'EBEN' to slot 9 (v_7_2_4)
+Assigning 'AAHED' to slot 1 (h_3_0_5)
+Assigning 'DICH' to slot 8 (v_0_2_4)
+Assigning 'SILVERMINE' to slot 0 (h_1_1_10)
+Assigning 'OVID' to slot 11 (v_0_4_4)
+Assigning 'DRAT' to slot 14 (v_0_6_4)
+Solução encontrada
+Grade preenchida escrita em: output1.txt
+Término: Sun May 04 18:53:37 GMT-03:00 2025
+Tempo total: 0,56 segundos

@@ -1,0 +1,1133 @@
+Início: Sun May 04 18:58:34 GMT-03:00 2025
+Slots encontrados: 532
+Restrições definidas: 986
+Assigning 'HH' to slot 45 (h_12_17_2)
+Assigning 'PS' to slot 46 (h_12_21_2)
+Assigning 'HO' to slot 52 (h_14_17_2)
+Assigning 'HAH' to slot 378 (v_12_17_3)
+Assigning 'RATHBONE' to slot 386 (v_9_18_8)
+Assigning 'BOOTABLESPOONS' to slot 49 (h_13_13_14)
+Assigning 'SPA' to slot 414 (v_12_22_3)
+Assigning 'AA' to slot 53 (h_14_21_2)
+Assigning 'WHIPSAWS' to slot 404 (v_9_21_8)
+Assigning 'PROOWL' to slot 33 (h_9_17_6)
+Assigning 'TABI' to slot 41 (h_11_18_4)
+Assigning 'YE' to slot 72 (h_19_17_2)
+Assigning 'ID' to slot 73 (h_19_21_2)
+Assigning 'AC' to slot 96 (h_25_19_2)
+Assigning 'IK' to slot 125 (h_32_17_2)
+Assigning 'AI' to slot 380 (v_31_17_2)
+Assigning 'AD' to slot 126 (h_32_21_2)
+Assigning 'SD' to slot 416 (v_31_22_2)
+Assigning 'IL' to slot 135 (h_34_19_2)
+Assigning 'AE' to slot 162 (h_40_19_2)
+Assigning 'IM' to slot 219 (h_53_19_2)
+Assigning 'IN' to slot 276 (v_48_1_2)
+Assigning 'RI' to slot 193 (h_48_0_2)
+Assigning 'AH' to slot 382 (v_45_17_2)
+Assigning 'IR' to slot 418 (v_45_22_2)
+Assigning 'AOMORI' to slot 184 (h_45_17_6)
+Assigning 'IS' to slot 524 (v_48_38_2)
+Assigning 'IT' to slot 197 (h_48_38_2)
+Assigning '1UP' to slot 377 (v_7_17_3)
+Assigning '212' to slot 24 (h_7_16_3)
+Backtracking from slot 24
+Assigning '816' to slot 24 (h_7_16_3)
+Backtracking from slot 24
+Assigning '911' to slot 24 (h_7_16_3)
+Backtracking from slot 24
+Assigning 'G1S' to slot 24 (h_7_16_3)
+Assigning 'WINETASTER' to slot 59 (h_16_15_10)
+Assigning 'AWA' to slot 363 (v_15_15_3)
+Assigning '&ME' to slot 402 (v_52_20_3)
+Backtracking from slot 402
+Assigning '1MI' to slot 402 (v_52_20_3)
+Assigning 'F117' to slot 214 (h_52_18_4)
+Backtracking from slot 214
+Assigning 'MO1E' to slot 214 (h_52_18_4)
+Assigning 'OIC' to slot 398 (v_52_19_3)
+Assigning 'ECIG' to slot 225 (h_54_18_4)
+Assigning '1AM' to slot 392 (v_50_18_3)
+Assigning '418402' to slot 203 (h_50_17_6)
+Backtracking from slot 203
+Backtracking from slot 392
+Assigning '2AM' to slot 392 (v_50_18_3)
+Assigning 'I2THST' to slot 203 (h_50_17_6)
+Assigning 'SAE' to slot 410 (v_50_21_3)
+Assigning 'AAL' to slot 413 (v_7_22_3)
+Assigning '7BC' to slot 399 (v_23_20_3)
+Assigning '707S' to slot 87 (h_23_18_4)
+Backtracking from slot 87
+Backtracking from slot 399
+Assigning 'AAC' to slot 399 (v_23_20_3)
+Assigning '3RS' to slot 431 (v_15_24_3)
+Assigning '834' to slot 56 (h_15_23_3)
+Backtracking from slot 56
+Assigning 'Y3K' to slot 56 (h_15_23_3)
+Assigning 'YEAN' to slot 422 (v_15_23_4)
+Assigning 'AS1' to slot 64 (h_17_23_3)
+Assigning 'DIEU' to slot 28 (h_8_14_4)
+Assigning 'DOGE' to slot 369 (v_5_16_4)
+Assigning 'ICANGO' to slot 362 (v_8_15_6)
+Assigning 'DIOC' to slot 32 (h_9_12_4)
+Assigning 'ICANBE' to slot 349 (v_9_13_6)
+Assigning 'SADDO' to slot 355 (v_5_14_5)
+Assigning 'NOSAD' to slot 17 (h_5_12_5)
+Assigning 'NOMADIC' to slot 343 (v_5_12_7)
+Assigning 'CAANS' to slot 40 (h_11_12_5)
+Assigning 'ELRIC' to slot 36 (h_10_9_5)
+Assigning 'AAA' to slot 395 (v_23_19_3)
+Assigning 'MECHAANIME' to slot 91 (h_24_15_10)
+Assigning 'GAAD' to slot 87 (h_23_18_4)
+Assigning 'ADN' to slot 406 (v_22_21_3)
+Assigning 'AGH' to slot 388 (v_22_18_3)
+Assigning '0IN' to slot 405 (v_18_21_3)
+Backtracking from slot 405
+Assigning '3II' to slot 405 (v_18_21_3)
+Backtracking from slot 405
+Assigning '4IN' to slot 405 (v_18_21_3)
+Backtracking from slot 405
+Assigning 'AIA' to slot 405 (v_18_21_3)
+Assigning 'RYESTAIN' to slot 68 (h_18_16_8)
+Backtracking from slot 68
+Assigning 'ROPEYARN' to slot 68 (h_18_16_8)
+Assigning 'RDEAN' to slot 415 (v_18_22_5)
+Assigning 'OYAMA' to slot 379 (v_18_17_5)
+Assigning 'SCARABAEUS' to slot 77 (h_20_15_10)
+Assigning 'PER' to slot 387 (v_18_18_3)
+Assigning 'BAABAABAA' to slot 83 (h_22_10_9)
+Backtracking from slot 83
+Assigning 'ALIBAABAA' to slot 83 (h_22_10_9)
+Backtracking from slot 83
+Assigning 'OAKLANDAA' to slot 83 (h_22_10_9)
+Assigning 'TSUNAMI' to slot 364 (v_19_15_7)
+Assigning 'DIER' to slot 370 (v_15_16_4)
+Assigning 'AAD' to slot 55 (h_15_14_3)
+Assigning 'AAE' to slot 63 (h_17_14_3)
+Assigning 'QSCORES' to slot 432 (v_19_24_7)
+Assigning 'ANGOULEME' to slot 84 (h_22_21_9)
+Assigning 'QAEFB' to slot 74 (h_19_24_5)
+Assigning 'NODOF' to slot 451 (v_15_27_5)
+Assigning 'D&D' to slot 65 (h_17_27_3)
+Backtracking from slot 65
+Assigning 'D4L' to slot 65 (h_17_27_3)
+Backtracking from slot 65
+Assigning 'DAB' to slot 65 (h_17_27_3)
+Assigning 'SAABS' to slot 456 (v_16_28_5)
+Assigning 'NOAGE' to slot 69 (h_18_26_5)
+Backtracking from slot 69
+Assigning 'NOADS' to slot 69 (h_18_26_5)
+Assigning 'JETBD' to slot 464 (v_14_29_5)
+Assigning 'NEEDLEINA' to slot 445 (v_18_26_9)
+Assigning 'NOSTO' to slot 60 (h_16_26_5)
+Assigning 'OJTRIAL' to slot 54 (h_14_28_7)
+Assigning 'SANAS' to slot 97 (h_25_24_5)
+Assigning 'ABL' to slot 500 (v_12_34_3)
+Assigning 'S&L' to slot 78 (h_20_28_3)
+Backtracking from slot 78
+Assigning 'S10' to slot 78 (h_20_28_3)
+Backtracking from slot 78
+Assigning 'SAA' to slot 78 (h_20_28_3)
+Assigning 'SAAB' to slot 472 (v_18_30_4)
+Assigning 'EBBS' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBBW' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBAL' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBAN' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBAY' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBBA' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBEN' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBER' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBLA' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBOE' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBON' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBOS' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBOW' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBOY' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBRE' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBRO' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBUR' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'EBYS' to slot 81 (h_21_29_4)
+Backtracking from slot 81
+Assigning 'FBIS' to slot 81 (h_21_29_4)
+Assigning 'AFERS' to slot 465 (v_20_29_5)
+Assigning 'SASSIEST' to slot 122 (h_31_16_8)
+Assigning 'BUKOWSKI' to slot 389 (v_26_18_8)
+Assigning '1LB' to slot 101 (h_26_16_3)
+Backtracking from slot 101
+Assigning 'AAB' to slot 101 (h_26_16_3)
+Assigning 'UANG' to slot 107 (h_27_18_4)
+Assigning 'EGGCREAM' to slot 407 (v_26_21_8)
+Assigning 'IAIM' to slot 130 (h_33_18_4)
+Assigning 'AIART' to slot 396 (v_33_19_5)
+Assigning 'ALOPECIA' to slot 115 (h_29_16_8)
+Assigning 'ARHATS' to slot 371 (v_26_16_6)
+Assigning 'ILAID' to slot 400 (v_33_20_5)
+Assigning 'ETDS' to slot 148 (h_37_18_4)
+Assigning 'OPERAARIAS' to slot 138 (h_35_15_10)
+Assigning 'RAEDA' to slot 390 (v_35_18_5)
+Assigning 'ARIS' to slot 142 (h_36_18_4)
+Backtracking from slot 142
+Assigning 'ARIP' to slot 142 (h_36_18_4)
+Backtracking from slot 142
+Assigning 'ARIL' to slot 142 (h_36_18_4)
+Backtracking from slot 142
+Assigning 'ARIF' to slot 142 (h_36_18_4)
+Backtracking from slot 142
+Assigning 'ARIG' to slot 142 (h_36_18_4)
+Assigning 'RGSTC' to slot 408 (v_35_21_5)
+Assigning 'MACACO' to slot 158 (h_39_17_6)
+Assigning 'AEAEA' to slot 401 (v_39_20_5)
+Assigning '&ME' to slot 381 (v_38_17_3)
+Backtracking from slot 381
+Assigning '8MM' to slot 381 (v_38_17_3)
+Backtracking from slot 381
+Assigning '9MM' to slot 381 (v_38_17_3)
+Backtracking from slot 381
+Assigning 'AMA' to slot 381 (v_38_17_3)
+Assigning 'BYROAD' to slot 153 (h_38_13_6)
+Assigning 'PACO' to slot 372 (v_35_16_4)
+Assigning 'ABY' to slot 357 (v_36_14_3)
+Assigning 'HBIC' to slot 147 (h_37_13_4)
+Assigning 'JAROMIR' to slot 365 (v_32_15_7)
+Assigning 'OHBOY' to slot 352 (v_36_13_5)
+Assigning 'OAMA' to slot 141 (h_36_13_4)
+Assigning 'RATAFT' to slot 423 (v_26_23_6)
+Assigning 'EAR' to slot 102 (h_26_21_3)
+Assigning '6ER' to slot 106 (h_27_14_3)
+Assigning '6ERS' to slot 356 (v_27_14_4)
+Assigning 'OSSET' to slot 118 (h_30_12_5)
+Assigning 'CAABA' to slot 397 (v_39_19_5)
+Assigning 'PHRAATES' to slot 176 (h_43_16_8)
+Assigning 'EBEN' to slot 172 (h_42_18_4)
+Assigning 'VERMOUTH' to slot 391 (v_41_18_8)
+Assigning 'VAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'REROOTED' to slot 391 (v_41_18_8)
+Assigning 'RAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'RAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'RAAB' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERCODAN' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERCOCET' to slot 391 (v_41_18_8)
+Assigning 'HIGHC' to slot 187 (h_46_14_5)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Backtracking from slot 391
+Assigning 'PERSONAE' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERSONAL' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERSONAS' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'FERVOURS' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'YERSOBAD' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'PERFORCE' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERGOLAS' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERFORMS' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'WEREOKAY' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'WEREOPEN' to slot 391 (v_41_18_8)
+Assigning 'ETCHP' to slot 187 (h_46_14_5)
+Assigning 'WAAC' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Assigning 'STAHP' to slot 187 (h_46_14_5)
+Assigning 'WAAC' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Backtracking from slot 391
+Assigning 'VERBOTEN' to slot 391 (v_41_18_8)
+Assigning 'VAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'MERCOURI' to slot 391 (v_41_18_8)
+Assigning 'MAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAM' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAT' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'BERTOLLI' to slot 391 (v_41_18_8)
+Assigning 'BAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'BAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'BERTOLTS' to slot 391 (v_41_18_8)
+Assigning 'BAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'BAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'TERHORST' to slot 391 (v_41_18_8)
+Assigning 'TAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'TAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'TAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERIODIC' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERIODOF' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'GERWOMAN' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'SERMONER' to slot 391 (v_41_18_8)
+Assigning 'SAAG' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'SERMONED' to slot 391 (v_41_18_8)
+Assigning 'SAAG' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'SERMONIC' to slot 391 (v_41_18_8)
+Assigning 'SAAG' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'SERMONON' to slot 391 (v_41_18_8)
+Assigning 'SAAG' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'SAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'PERPOUND' to slot 391 (v_41_18_8)
+Assigning 'PAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'PAAK' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'HERHONOR' to slot 391 (v_41_18_8)
+Assigning 'HAAN' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'HAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'HAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'HAAG' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'HAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'MERIONES' to slot 391 (v_41_18_8)
+Assigning 'MAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAM' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAT' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'MAAR' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'BERNOULL' to slot 391 (v_41_18_8)
+Assigning 'BAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'BAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'VERWOERD' to slot 391 (v_41_18_8)
+Assigning 'VAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 391
+Assigning 'WEROOMED' to slot 391 (v_41_18_8)
+Assigning 'ABOHM' to slot 187 (h_46_14_5)
+Assigning 'WAAC' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Assigning 'PASHM' to slot 187 (h_46_14_5)
+Assigning 'WAAC' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Assigning 'BOEHM' to slot 187 (h_46_14_5)
+Assigning 'WAAC' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Assigning 'ROEHM' to slot 187 (h_46_14_5)
+Assigning 'WAAC' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAD' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAF' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAS' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAH' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Assigning 'WAAL' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 187
+Backtracking from slot 391
+Backtracking from slot 172
+Assigning 'EBER' to slot 172 (h_42_18_4)
+Assigning 'ARTCRAWL' to slot 409 (v_41_21_8)
+Assigning 'AAAA' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 409
+Assigning 'ARTERIAL' to slot 409 (v_41_21_8)
+Assigning 'AAAA' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 409
+Assigning 'ARTERIES' to slot 409 (v_41_21_8)
+Assigning 'AAAA' to slot 167 (h_41_18_4)
+Backtracking from slot 167
+Backtracking from slot 409
+Backtracking from slot 172
+Assigning 'IBEA' to slot 172 (h_42_18_4)
+Assigning 'FIREOPAL' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'SIRROGER' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'AIRCOVER' to slot 391 (v_41_18_8)
+Backtracking from slot 391
+Assigning 'AIRFOILS' to slot 391 (v_41_18_8)
+Assigning 'AAAS' to slot 167 (h_41_18_4)
+Assigning 'SATIRIZE' to slot 409 (v_41_21_8)
+Assigning 'SASHI' to slot 187 (h_46_14_5)
+Assigning 'IRABE' to slot 188 (h_46_21_5)
+Assigning 'GOESSTEADY' to slot 195 (h_48_15_10)
+Assigning 'ABD' to slot 426 (v_46_23_3)
+Assigning 'SAO' to slot 374 (v_46_16_3)
+Assigning 'ECIM' to slot 383 (v_48_17_4)
+Assigning 'ABTS' to slot 419 (v_48_22_4)
+Assigning 'DOMA' to slot 208 (h_51_15_4)
+Assigning 'ASAN' to slot 209 (h_51_21_4)
+Assigning 'YESNOERS' to slot 435 (v_48_24_8)
+Assigning 'GIDDIEST' to slot 367 (v_48_15_8)
+Assigning 'ABT' to slot 230 (h_55_13_3)
+Assigning 'DIEB' to slot 359 (v_52_14_4)
+Assigning 'DIB' to slot 213 (h_52_14_3)
+Assigning 'OBAD' to slot 375 (v_51_16_4)
+Assigning 'RESD' to slot 224 (h_54_13_4)
+Assigning 'LIEAT' to slot 218 (h_53_13_5)
+Backtracking from slot 218
+Assigning 'PIEAS' to slot 218 (h_53_13_5)
+Assigning 'PRAOS' to slot 354 (v_53_13_5)
+Assigning 'S&L' to slot 231 (h_55_24_3)
+Backtracking from slot 231
+Assigning 'S10' to slot 231 (h_55_24_3)
+Assigning 'EC0SS' to slot 449 (v_53_26_5)
+Assigning 'REF1' to slot 441 (v_52_25_4)
+Backtracking from slot 441
+Assigning '2001' to slot 441 (v_52_25_4)
+Backtracking from slot 441
+Assigning 'WHO1' to slot 441 (v_52_25_4)
+Backtracking from slot 441
+Assigning 'ACT1' to slot 441 (v_52_25_4)
+Backtracking from slot 441
+Assigning 'AND1' to slot 441 (v_52_25_4)
+Backtracking from slot 441
+Assigning 'BAH1' to slot 441 (v_52_25_4)
+Backtracking from slot 441
+Backtracking from slot 449
+Backtracking from slot 231
+Assigning 'SAC' to slot 231 (h_55_24_3)
+Assigning 'ABA' to slot 161 (h_40_15_3)
+Assigning 'BADPR' to slot 373 (v_40_16_5)
+Assigning 'ACA' to slot 166 (h_41_14_3)
+Assigning 'ACC' to slot 366 (v_40_15_3)
+Backtracking from slot 366
+Assigning 'ACD' to slot 366 (v_40_15_3)
+Assigning 'MARYTODD' to slot 171 (h_42_9_8)
+Backtracking from slot 171
+Assigning 'MIKETODD' to slot 171 (h_42_9_8)
+Backtracking from slot 171
+Assigning 'DJRICKDD' to slot 171 (h_42_9_8)
+Backtracking from slot 171
+Assigning 'PAULRUDD' to slot 171 (h_42_9_8)
+Assigning 'AUTOIST' to slot 358 (v_41_14_7)
+Assigning 'PYOTR' to slot 180 (h_44_12_5)
+Assigning 'ELOPERS' to slot 346 (v_41_12_7)
+Assigning 'SAT' to slot 191 (h_47_12_3)
+Assigning '2OO' to slot 175 (h_43_10_3)
+Backtracking from slot 175
+Assigning '4GO' to slot 175 (h_43_10_3)
+Backtracking from slot 175
+Assigning '4OO' to slot 175 (h_43_10_3)
+Backtracking from slot 175
+Assigning '7NO' to slot 175 (h_43_10_3)
+Backtracking from slot 175
+Assigning '8OO' to slot 175 (h_43_10_3)
+Backtracking from slot 175
+Assigning '=TO' to slot 175 (h_43_10_3)
+Backtracking from slot 175
+Assigning 'ABO' to slot 175 (h_43_10_3)
+Assigning 'PAARSNIPS' to slot 333 (v_41_10_9)
+Assigning 'MESALAMI' to slot 199 (h_49_8_8)
+Assigning 'USBHUB' to slot 340 (v_38_11_6)
+Assigning 'OUPHE' to slot 165 (h_41_8_5)
+Assigning 'GLOSSO' to slot 157 (h_39_8_6)
+Assigning 'ALLUP' to slot 324 (v_38_9_5)
+Assigning 'SUNGTO' to slot 316 (v_36_8_6)
+Assigning 'GIVEAFATL' to slot 160 (h_40_1_9)
+Assigning 'NADU' to slot 152 (h_38_8_4)
+Assigning 'DIDO' to slot 332 (v_36_10_4)
+Assigning 'OSIDE' to slot 140 (h_36_7_5)
+Assigning 'SOONER' to slot 186 (h_46_7_6)
+Assigning 'RIOBAMBA' to slot 317 (v_44_8_8)
+Assigning 'UVLAMPS' to slot 194 (h_48_5_7)
+Assigning 'MEA' to slot 325 (v_48_9_3)
+Assigning 'DIRER' to slot 179 (h_44_6_5)
+Assigning 'TEABA' to slot 202 (h_50_5_5)
+Assigning 'V6ES' to slot 305 (v_48_6_4)
+Assigning 'ESCA' to slot 206 (h_51_5_4)
+Assigning 'ACAST' to slot 312 (v_50_7_5)
+Assigning 'DIFF' to slot 303 (v_37_6_4)
+Assigning 'SDSU' to slot 146 (h_37_5_4)
+Assigning 'TEBET' to slot 298 (v_50_5_5)
+Assigning 'TATI' to slot 223 (h_54_5_4)
+Assigning 'ELLOS' to slot 311 (v_33_7_5)
+Assigning 'A&E' to slot 108 (h_27_23_3)
+Assigning 'AAAHH' to slot 353 (v_47_13_5)
+Assigning 'DICH' to slot 207 (h_51_10_4)
+Assigning 'SARINA' to slot 341 (v_48_11_6)
+Assigning 'SABRA' to slot 217 (h_53_7_5)
+Assigning 'AINTME' to slot 318 (v_53_8_6)
+Assigning 'THATSO' to slot 234 (h_56_8_6)
+Assigning 'RABA' to slot 334 (v_53_10_4)
+Assigning 'NABE' to slot 229 (h_55_8_4)
+Assigning 'AHAIR' to slot 326 (v_55_9_5)
+Assigning 'EIDOS' to slot 241 (h_58_8_5)
+Assigning 'ETAOIN' to slot 342 (v_55_11_6)
+Assigning 'PESOPLUMA' to slot 237 (h_57_1_9)
+Assigning 'AAAL' to slot 306 (v_54_6_4)
+Assigning 'REISSUING' to slot 246 (h_59_9_9)
+Assigning 'SSHAPED' to slot 347 (v_58_12_7)
+Assigning 'ANH' to slot 249 (h_60_10_3)
+Assigning 'DEARONE' to slot 335 (v_58_10_7)
+Assigning 'SAINTE' to slot 260 (h_63_7_6)
+Assigning '3II' to slot 368 (v_57_15_3)
+Assigning '3COM' to slot 238 (h_57_15_4)
+Assigning 'EMMMA' to slot 393 (v_54_18_5)
+Assigning 'DOEG' to slot 384 (v_56_17_4)
+Assigning 'DMINOR' to slot 235 (h_56_17_6)
+Assigning 'DIMEA' to slot 242 (h_58_14_5)
+Backtracking from slot 242
+Assigning 'LIKEA' to slot 242 (h_58_14_5)
+Backtracking from slot 242
+Assigning 'LINEA' to slot 242 (h_58_14_5)
+Assigning 'CNNMONEY' to slot 376 (v_57_16_8)
+Assigning 'GYOZA' to slot 411 (v_54_21_5)
+Assigning 'LUCANIA' to slot 360 (v_58_14_7)
+Assigning 'ARAROBA' to slot 254 (h_61_12_7)
+Assigning 'IBEAM' to slot 261 (h_63_14_5)
+Assigning 'SAMMO' to slot 394 (v_60_18_5)
+Assigning 'ZAAB' to slot 239 (h_57_21_4)
+Assigning 'RABB' to slot 420 (v_56_22_4)
+Assigning 'ABAYA' to slot 243 (h_58_21_5)
+Assigning 'BY0' to slot 436 (v_57_24_3)
+Backtracking from slot 436
+Assigning 'BY2' to slot 436 (v_57_24_3)
+Backtracking from slot 436
+Assigning 'BYA' to slot 436 (v_57_24_3)
+Assigning 'AANDAHLS' to slot 428 (v_57_23_8)
+Assigning 'BNAIBRITH' to slot 247 (h_59_22_9)
+Assigning 'AIRACES' to slot 442 (v_58_25_7)
+Assigning 'ELLIE' to slot 262 (h_63_21_5)
+Assigning 'GRANADA' to slot 255 (h_61_21_7)
+Assigning 'BGIED' to slot 412 (v_60_21_5)
+Assigning 'OBED' to slot 265 (h_64_18_4)
+Assigning 'SATB' to slot 250 (h_60_18_4)
+Assigning 'MABI' to slot 258 (h_62_18_4)
+Assigning 'ORGANON' to slot 454 (v_58_27_7)
+Assigning 'G4S' to slot 251 (h_60_27_3)
+Backtracking from slot 251
+Assigning 'GAB' to slot 251 (h_60_27_3)
+Assigning 'MTBLANC' to slot 470 (v_58_29_7)
+Assigning 'OSMAN' to slot 244 (h_58_27_5)
+Assigning 'MNESIA' to slot 461 (v_55_28_6)
+Assigning 'OINKED' to slot 263 (h_63_27_6)
+Assigning 'ELOAH' to slot 477 (v_55_30_5)
+Assigning 'MAEL' to slot 232 (h_55_28_4)
+Assigning 'PENDLE' to slot 236 (h_56_26_6)
+Assigning 'ACCPT' to slot 449 (v_53_26_5)
+Assigning 'CALEAN' to slot 483 (v_53_31_6)
+Assigning 'OARREVOIR' to slot 240 (h_57_30_9)
+Assigning 'DRAC' to slot 226 (h_54_23_4)
+Assigning 'DRAA' to slot 441 (v_52_25_4)
+Assigning 'BOD' to slot 215 (h_52_23_3)
+Assigning 'ABAD' to slot 427 (v_51_23_4)
+Backtracking from slot 427
+Assigning 'ABCD' to slot 427 (v_51_23_4)
+Assigning 'ACERA' to slot 220 (h_53_22_5)
+Assigning 'DIAD' to slot 469 (v_53_29_4)
+Assigning 'ADUCK' to slot 221 (h_53_28_5)
+Assigning 'OVERRIGID' to slot 510 (v_56_35_9)
+Assigning '2OF' to slot 417 (v_38_22_3)
+Backtracking from slot 417
+Assigning '2OO' to slot 417 (v_38_22_3)
+Backtracking from slot 417
+Assigning '4OO' to slot 417 (v_38_22_3)
+Backtracking from slot 417
+Assigning '8OO' to slot 417 (v_38_22_3)
+Backtracking from slot 417
+Assigning '9OS' to slot 417 (v_38_22_3)
+Backtracking from slot 417
+Assigning '?OR' to slot 417 (v_38_22_3)
+Backtracking from slot 417
+Assigning 'AOA' to slot 417 (v_38_22_3)
+Assigning 'A&M' to slot 163 (h_40_22_3)
+Backtracking from slot 163
+Assigning 'A&P' to slot 163 (h_40_22_3)
+Backtracking from slot 163
+Assigning 'AAF' to slot 163 (h_40_22_3)
+Assigning 'AALST' to slot 425 (v_40_23_5)
+Assigning 'FAB' to slot 434 (v_40_24_3)
+Assigning 'LBJRANCH' to slot 173 (h_42_23_8)
+Assigning 'EJUICES' to slot 440 (v_41_25_7)
+Backtracking from slot 440
+Assigning 'EJECTED' to slot 440 (v_41_25_7)
+Backtracking from slot 440
+Assigning 'EJECTER' to slot 440 (v_41_25_7)
+Backtracking from slot 440
+Assigning 'AJGREEN' to slot 440 (v_41_25_7)
+Backtracking from slot 440
+Assigning 'PJSOLES' to slot 440 (v_41_25_7)
+Assigning 'AAP' to slot 168 (h_41_23_3)
+Assigning 'TFOLD' to slot 181 (h_44_23_5)
+Assigning 'S&L' to slot 192 (h_47_25_3)
+Backtracking from slot 192
+Assigning 'S10' to slot 192 (h_47_25_3)
+Backtracking from slot 192
+Assigning 'SAB' to slot 192 (h_47_25_3)
+Assigning 'HANDRUB' to slot 453 (v_41_27_7)
+Assigning 'NAB' to slot 177 (h_43_27_3)
+Assigning 'ECBENTLEY' to slot 468 (v_41_29_9)
+Assigning 'EVILEYED' to slot 200 (h_49_24_8)
+Assigning 'HYENA' to slot 169 (h_41_27_5)
+Backtracking from slot 169
+Assigning 'HAEMA' to slot 169 (h_41_27_5)
+Assigning 'WARMH' to slot 475 (v_38_30_5)
+Assigning 'USTART' to slot 189 (h_46_27_6)
+Assigning 'ORIANA' to slot 459 (v_38_28_6)
+Assigning 'OHWE' to slot 155 (h_38_28_4)
+Assigning 'EARTHDAY' to slot 482 (v_44_31_8)
+Assigning 'EMEUS' to slot 182 (h_44_29_5)
+Assigning 'SENHORS' to slot 196 (h_48_28_7)
+Assigning 'SERBIA' to slot 460 (v_48_28_6)
+Assigning 'NEB' to slot 476 (v_48_30_3)
+Assigning 'OMERTA' to slot 481 (v_36_31_6)
+Assigning 'RTEELEVEN' to slot 164 (h_40_30_9)
+Assigning 'SARDAR' to slot 159 (h_39_26_6)
+Assigning 'FAHD' to slot 467 (v_36_29_4)
+Assigning 'AFLOW' to slot 144 (h_36_28_5)
+Assigning 'YACK' to slot 211 (h_51_31_4)
+Assigning 'RASC' to slot 496 (v_48_33_4)
+Assigning 'BAISE' to slot 204 (h_50_30_5)
+Assigning 'IASKA' to slot 489 (v_50_32_5)
+Assigning 'EKARI' to slot 504 (v_50_34_5)
+Assigning 'AANI' to slot 227 (h_54_31_4)
+Assigning 'NAFR' to slot 497 (v_54_33_4)
+Assigning 'DHOWS' to slot 488 (v_33_32_5)
+Assigning 'MSAS' to slot 150 (h_37_31_4)
+Assigning 'AARE' to slot 494 (v_37_33_4)
+Assigning 'AAINS' to slot 448 (v_47_26_5)
+Assigning 'SABU' to slot 210 (h_51_26_4)
+Assigning 'TAGSIN' to slot 154 (h_38_21_6)
+Assigning 'AANG' to slot 424 (v_35_23_4)
+Assigning 'TENSA' to slot 447 (v_36_26_5)
+Assigning 'NAHE' to slot 149 (h_37_23_4)
+Assigning 'AHI' to slot 439 (v_36_25_3)
+Assigning 'ABAT' to slot 143 (h_36_23_4)
+Backtracking from slot 143
+Assigning 'ACAT' to slot 143 (h_36_23_4)
+Assigning 'ITASCAS' to slot 433 (v_32_24_7)
+Assigning 'UPHEAVES' to slot 137 (h_34_30_8)
+Assigning 'DUAL' to slot 474 (v_33_30_4)
+Assigning 'CDDVD' to slot 132 (h_33_28_5)
+Assigning 'QCWVP' to slot 480 (v_30_31_5)
+Assigning 'CABA' to slot 458 (v_33_28_4)
+Assigning 'ADA' to slot 136 (h_34_26_3)
+Assigning 'DTAS' to slot 131 (h_33_23_4)
+Assigning 'TESSA' to slot 446 (v_30_26_5)
+Assigning 'FRATS' to slot 119 (h_30_23_5)
+Assigning 'EARA' to slot 438 (v_27_25_4)
+Assigning '1AM' to slot 25 (h_7_21_3)
+Assigning 'THEWILD1' to slot 403 (v_0_21_8)
+Assigning 'DIDA' to slot 304 (v_42_6_4)
+Assigning 'DIMS' to slot 421 (v_5_23_4)
+Assigning 'ASAK' to slot 29 (h_8_22_4)
+Assigning 'AMEDEO' to slot 430 (v_8_24_6)
+Assigning 'CDEFG' to slot 42 (h_11_23_5)
+Assigning 'SUFISM' to slot 444 (v_9_26_6)
+Assigning 'MASA' to slot 34 (h_9_24_4)
+Assigning 'YINYANG' to slot 450 (v_5_27_7)
+Assigning 'SANKA' to slot 437 (v_5_25_5)
+Assigning 'DISHY' to slot 18 (h_5_23_5)
+Assigning 'UNAGE' to slot 37 (h_10_26_5)
+Assigning 'YABBA' to slot 30 (h_8_27_5)
+Assigning 'BAGON' to slot 463 (v_8_29_5)
+Assigning 'ONEIDEA' to slot 47 (h_12_28_7)
+Assigning 'MMDII' to slot 485 (v_10_32_5)
+Assigning 'NAAS' to slot 198 (h_49_1_4)
+Assigning 'DHED' to slot 21 (h_6_18_4)
+Assigning 'TOYLANDS' to slot 385 (v_0_18_8)
+Assigning 'CYPRES' to slot 7 (h_2_17_6)
+Assigning 'STACTE' to slot 1 (h_0_17_6)
+Assigning 'LADYIN' to slot 14 (h_4_17_6)
+Assigning 'RAKISH' to slot 443 (v_0_26_6)
+Assigning 'WDWNWI' to slot 429 (v_0_24_6)
+Assigning 'ADTACH' to slot 4 (h_1_23_6)
+Assigning 'UNBINDS' to slot 11 (h_3_23_7)
+Assigning 'THADS' to slot 455 (v_0_28_5)
+Assigning 'DISP' to slot 495 (v_42_33_4)
+Assigning 'IDIDWHAT' to slot 174 (h_42_32_8)
+Assigning 'FRESHHERBS' to slot 519 (v_38_37_10)
+Assigning 'EFAX' to slot 156 (h_38_36_4)
+Assigning 'XOXOXOXO' to slot 528 (v_32_39_8)
+Assigning 'JOETEX' to slot 145 (h_36_34_6)
+Backtracking from slot 145
+Assigning 'SKYBOX' to slot 145 (h_36_34_6)
+Assigning 'THELYRE' to slot 514 (v_32_36_7)
+Assigning 'YASSS' to slot 503 (v_33_34_5)
+Assigning 'TEDX' to slot 127 (h_32_36_4)
+Assigning 'READYMADE' to slot 509 (v_39_35_9)
+Assigning 'EDOBAY' to slot 190 (h_46_34_6)
+Assigning 'MNEMO' to slot 183 (h_44_35_5)
+Backtracking from slot 183
+Assigning 'MNEME' to slot 183 (h_44_35_5)
+Assigning 'STEELY' to slot 529 (v_41_39_6)
+Assigning 'OSELA' to slot 457 (v_24_28_5)
+Assigning 'OSMENA' to slot 92 (h_24_28_6)
+Assigning 'HOWSOON' to slot 486 (v_18_32_7)
+Assigning 'ATHAND' to slot 112 (h_28_25_6)
+Assigning 'FHAS' to slot 452 (v_27_27_4)
+Assigning 'FLIGHT' to slot 109 (h_27_27_6)
+Assigning 'MGD' to slot 473 (v_26_30_3)
+Assigning 'INSIPID' to slot 466 (v_27_29_7)
+Assigning 'EPACTS' to slot 123 (h_31_28_6)
+Assigning 'TEACH' to slot 479 (v_23_31_5)
+Assigning 'MCCC' to slot 103 (h_26_30_4)
+Assigning 'CTCS' to slot 487 (v_26_32_4)
+Assigning 'HAEC' to slot 492 (v_23_33_4)
+Assigning 'TOHER' to slot 88 (h_23_31_5)
+Assigning 'DISS' to slot 493 (v_29_33_4)
+Assigning 'SDAE' to slot 116 (h_29_32_4)
+Assigning 'EACE' to slot 98 (h_25_33_4)
+Assigning 'EREC' to slot 507 (v_22_35_4)
+Assigning '#ED' to slot 513 (v_24_36_3)
+Backtracking from slot 513
+Assigning 'AEA' to slot 513 (v_24_36_3)
+Assigning 'EADIE' to slot 93 (h_24_35_5)
+Assigning 'OSHUN' to slot 462 (v_2_29_5)
+Assigning 'AOBA' to slot 8 (h_2_28_4)
+Assigning 'IGNITOR' to slot 22 (h_6_27_7)
+Assigning 'AWAYTEAM' to slot 478 (v_2_31_8)
+Assigning 'SHCA' to slot 15 (h_4_28_4)
+Assigning '1LB' to slot 471 (v_0_30_3)
+Assigning '1LIGHTYEAR' to slot 2 (h_0_30_10)
+Assigning 'YACHT' to slot 511 (v_0_36_5)
+Assigning 'DIDI' to slot 323 (v_33_9_4)
+Assigning 'ARTICLEI' to slot 133 (h_34_2_8)
+Assigning 'EMDEN' to slot 128 (h_33_7_5)
+Assigning 'NAGE' to slot 339 (v_33_11_4)
+Assigning 'NOTME' to slot 315 (v_30_8_5)
+Assigning 'A&M' to slot 134 (h_34_11_3)
+Assigning 'SAGUM' to slot 351 (v_30_13_5)
+Assigning 'UBAR' to slot 129 (h_33_13_4)
+Assigning 'DIANS' to slot 297 (v_33_5_5)
+Assigning 'WEEKENDS' to slot 170 (h_42_0_8)
+Assigning 'SWEATY' to slot 270 (v_41_0_6)
+Assigning 'YAGERS' to slot 185 (h_46_0_6)
+Assigning 'ISITENOUGH' to slot 280 (v_38_2_10)
+Assigning 'FEDEXPERT' to slot 291 (v_39_4_9)
+Assigning 'AHOOP' to slot 178 (h_44_0_5)
+Assigning 'DILO' to slot 345 (v_27_12_4)
+Assigning 'RESITE' to slot 111 (h_28_9_6)
+Assigning '?OR' to slot 322 (v_26_9_3)
+Backtracking from slot 322
+Assigning 'AAR' to slot 322 (v_26_9_3)
+Assigning 'STAGED' to slot 105 (h_27_7_6)
+Assigning 'GEORDIE' to slot 331 (v_27_10_7)
+Assigning 'CHORDS' to slot 121 (h_31_6_6)
+Assigning 'DSAP' to slot 310 (v_26_7_4)
+Assigning 'EDEA' to slot 100 (h_26_6_4)
+Assigning 'NOCET' to slot 314 (v_23_8_5)
+Assigning 'DOPP' to slot 114 (h_29_4_4)
+Assigning 'PACS' to slot 302 (v_29_6_4)
+Assigning 'EDAD' to slot 290 (v_28_4_4)
+Assigning 'ALMAATA' to slot 117 (h_30_0_7)
+Assigning 'EGOT' to slot 296 (v_27_5_4)
+Assigning 'HATPEG' to slot 110 (h_28_0_6)
+Assigning 'OSHEA' to slot 268 (v_26_0_5)
+Assigning 'TEMES' to slot 279 (v_28_2_5)
+Assigning 'OAFS' to slot 99 (h_26_0_4)
+Assigning '1LS' to slot 284 (v_24_3_3)
+Assigning 'LOR1E' to slot 89 (h_24_0_5)
+Assigning 'ELORA' to slot 275 (v_22_1_5)
+Assigning 'LAAR' to slot 94 (h_25_3_4)
+Assigning 'DOEA' to slot 289 (v_22_4_4)
+Assigning 'OSMIN' to slot 86 (h_23_4_5)
+Assigning 'MARE' to slot 301 (v_23_6_4)
+Assigning 'TEAED' to slot 82 (h_22_0_5)
+Assigning 'AZOTES' to slot 90 (h_24_6_6)
+Assigning 'AGASSIZ' to slot 309 (v_18_7_7)
+Assigning 'SABES' to slot 338 (v_24_11_5)
+Assigning 'AALII' to slot 95 (h_25_11_5)
+Assigning 'DROLLDOLL' to slot 350 (v_18_13_9)
+Assigning 'NORAT' to slot 71 (h_19_11_5)
+Assigning 'ELOGE' to slot 330 (v_20_10_5)
+Assigning 'SAAL' to slot 80 (h_21_7_4)
+Assigning '#ED' to slot 76 (h_20_9_3)
+Backtracking from slot 76
+Assigning 'AEC' to slot 76 (h_20_9_3)
+Assigning 'FRANC' to slot 337 (v_16_11_5)
+Assigning 'INAA' to slot 321 (v_18_9_4)
+Assigning 'IFAND' to slot 67 (h_18_9_5)
+Assigning 'TECNO' to slot 344 (v_15_12_5)
+Assigning 'ARC' to slot 62 (h_17_10_3)
+Assigning 'SCHAF' to slot 329 (v_14_10_5)
+Backtracking from slot 329
+Assigning 'LITAF' to slot 329 (v_14_10_5)
+Backtracking from slot 329
+Assigning 'SHEAF' to slot 329 (v_14_10_5)
+Assigning 'JEFES' to slot 58 (h_16_9_5)
+Assigning 'DIST' to slot 124 (h_32_0_4)
+Assigning 'TARSIDE' to slot 285 (v_32_3_7)
+Assigning 'DTIE' to slot 151 (h_38_0_4)
+Assigning 'DEADBODY' to slot 269 (v_32_0_8)
+Assigning 'BANIAN' to slot 139 (h_36_0_6)
+Assigning 'DICT' to slot 267 (v_19_0_4)
+Assigning 'INONEERA' to slot 75 (h_20_0_8)
+Assigning 'SAORA' to slot 278 (v_18_2_5)
+Assigning 'ASAHARA' to slot 66 (h_18_1_7)
+Assigning 'ABET' to slot 295 (v_18_5_4)
+Assigning 'DINH' to slot 288 (v_15_4_4)
+Assigning 'IAGOS' to slot 257 (h_61_35_5)
+Assigning 'WAITINGFOR' to slot 520 (v_55_37_10)
+Assigning 'DWAN' to slot 233 (h_55_36_4)
+Assigning 'PIDOGS' to slot 264 (h_63_34_6)
+Assigning 'CHOSES' to slot 531 (v_58_39_6)
+Assigning 'STARFISH' to slot 248 (h_59_32_8)
+Assigning 'TABB' to slot 498 (v_59_33_4)
+Assigning 'LINEB' to slot 256 (h_61_29_5)
+Assigning 'NAES' to slot 484 (v_61_31_4)
+Assigning 'ELLER' to slot 85 (h_22_35_5)
+Assigning 'EMITS' to slot 523 (v_22_38_5)
+Assigning 'AASE' to slot 104 (h_26_36_4)
+Assigning 'DIOR' to slot 526 (v_19_39_4)
+Assigning 'WHITELEI' to slot 79 (h_20_32_8)
+Assigning 'SALAL' to slot 517 (v_18_37_5)
+Assigning 'HOSTESS' to slot 70 (h_18_32_7)
+Assigning 'SAIC' to slot 501 (v_18_34_4)
+Assigning 'AALTO' to slot 491 (v_14_33_5)
+Assigning 'DIET' to slot 506 (v_15_35_4)
+Assigning 'ULTIMAS' to slot 61 (h_16_32_7)
+Assigning 'REASSS' to slot 522 (v_13_38_6)
+Assigning 'BAWDRY' to slot 50 (h_13_34_6)
+Assigning 'CDRWS' to slot 512 (v_10_36_5)
+Assigning 'MMCCC' to slot 38 (h_10_32_5)
+Assigning 'RADOM' to slot 490 (v_6_33_5)
+Assigning 'CDIII' to slot 43 (h_11_35_5)
+Assigning 'THEACC' to slot 505 (v_6_35_6)
+Assigning 'DHERI' to slot 31 (h_8_33_5)
+Assigning 'TOPQUALITY' to slot 525 (v_4_39_10)
+Assigning 'TECAP' to slot 23 (h_6_35_5)
+Assigning 'CAID' to slot 516 (v_6_37_4)
+Assigning 'FELTOUT' to slot 16 (h_4_33_7)
+Assigning 'AARAU' to slot 521 (v_0_38_5)
+Assigning 'PRICERS' to slot 9 (h_2_33_7)
+Assigning 'HORDED' to slot 499 (v_0_34_6)
+Assigning 'ELLES' to slot 527 (v_26_39_5)
+Assigning 'IGNITES' to slot 120 (h_30_33_7)
+Assigning 'DIAG' to slot 502 (v_27_34_4)
+Assigning 'ISEVIL' to slot 113 (h_28_34_6)
+Assigning 'VOTRE' to slot 518 (v_28_37_5)
+Assigning 'SENA' to slot 508 (v_28_35_4)
+Assigning 'OWNUPTO' to slot 20 (h_6_6_7)
+Assigning 'NOCAP' to slot 327 (v_2_10_5)
+Assigning 'DICE' to slot 13 (h_4_8_4)
+Assigning 'PEDANTIC' to slot 313 (v_2_8_8)
+Assigning 'PANA' to slot 6 (h_2_8_4)
+Assigning 'IBEIA' to slot 27 (h_8_8_5)
+Assigning 'ELLEN' to slot 328 (v_8_10_5)
+Assigning 'AFA' to slot 320 (v_0_9_3)
+Assigning 'NOAGE' to slot 336 (v_0_11_5)
+Assigning 'OGILVIE' to slot 10 (h_3_10_7)
+Assigning 'SAILHO' to slot 348 (v_0_13_6)
+Assigning 'OLAMIC' to slot 3 (h_1_11_6)
+Assigning 'VIVICA' to slot 361 (v_0_15_6)
+Assigning 'SILKBANANA' to slot 0 (h_0_0_10)
+Assigning 'KCARS' to slot 282 (v_0_3_5)
+Assigning 'IAGET' to slot 273 (v_0_1_5)
+Assigning 'IGNACIO' to slot 5 (h_2_0_7)
+Assigning 'STOSSEL' to slot 12 (h_4_0_7)
+Assigning 'ANIDEA' to slot 293 (v_0_5_6)
+Assigning 'OSIER' to slot 299 (v_6_6_5)
+Assigning 'NOELI' to slot 26 (h_8_2_5)
+Assigning 'DINA' to slot 277 (v_6_2_4)
+Assigning 'NODUH' to slot 19 (h_6_0_5)
+Assigning 'HAERES' to slot 287 (v_6_4_6)
+Assigning 'TEARA' to slot 35 (h_10_3_5)
+Assigning 'SONICBUSTS' to slot 266 (v_4_0_10)
+Assigning 'SACAS' to slot 39 (h_11_0_5)
+Assigning 'TABUS' to slot 283 (v_10_3_5)
+Assigning 'STRUMA' to slot 48 (h_13_0_6)
+Assigning 'THATSA' to slot 274 (v_13_1_6)
+Assigning 'TUNISIA' to slot 57 (h_16_1_7)
+Assigning 'WRIER' to slot 300 (v_14_6_5)
+Assigning 'IWILLSO' to slot 51 (h_14_5_7)
+Assigning 'BAI' to slot 294 (v_12_5_3)
+Assigning 'ABACI' to slot 308 (v_10_7_5)
+Assigning 'BRACING' to slot 44 (h_12_5_7)
+Assigning 'DIAL' to slot 319 (v_61_8_4)
+Assigning 'CEDAR' to slot 253 (h_61_6_5)
+Assigning 'DICK' to slot 307 (v_59_6_4)
+Assigning 'LOVEMEDO' to slot 245 (h_59_0_8)
+Assigning 'THEAVIATOR' to slot 281 (v_55_2_10)
+Assigning 'DOTMATRIX' to slot 292 (v_56_4_9)
+Assigning 'NOACT' to slot 252 (h_61_0_5)
+Assigning 'OLANIN' to slot 272 (v_58_0_6)
+Assigning 'NWODIM' to slot 259 (h_63_0_6)
+Assigning 'DITA' to slot 228 (h_55_0_4)
+Assigning 'HARDSODA' to slot 286 (v_48_3_8)
+Assigning 'SYMONE' to slot 216 (h_53_0_6)
+Assigning 'OFFSIDE' to slot 271 (v_50_0_7)
+Assigning 'FAID' to slot 205 (h_51_0_4)
+Assigning 'RESIST' to slot 222 (h_53_34_6)
+Assigning 'EGRESSED' to slot 515 (v_48_36_8)
+Assigning 'EGAS' to slot 201 (h_49_35_4)
+Assigning 'MRATING' to slot 530 (v_50_39_7)
+Assigning 'EBER' to slot 212 (h_51_36_4)
+Solução encontrada
+Grade preenchida escrita em: output5.txt
+Término: Sun May 04 18:58:50 GMT-03:00 2025
+Tempo total: 16,31 segundos

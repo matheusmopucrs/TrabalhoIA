@@ -1,6 +1,6 @@
-Starting at Sun May 04 18:01:04 GMT-03:00 2025
-Found 88 slots
-Defined 132 constraints
+Início: Sun May 04 19:36:03 GMT-03:00 2025
+Slots encontrados: 88
+Restrições definidas: 132
 Assigning '#ED' to slot 53 (v_7_5_3)
 Backtracking from slot 53
 Assigning '#FF' to slot 53 (v_7_5_3)
@@ -95,7 +95,7 @@ Assigning 'HETERO' to slot 48 (v_0_3_6)
 Assigning 'TEBET' to slot 59 (v_0_9_5)
 Assigning 'DICE' to slot 3 (h_3_0_4)
 Assigning 'FEFI' to slot 44 (v_0_1_4)
-Solution found
-Filled grid written to output3.txt
-Finished at Sun May 04 18:01:15 GMT-03:00 2025
-Total time: 10,68 seconds
+Solução encontrada
+Grade preenchida escrita em: output3.txt
+Término: Sun May 04 19:36:12 GMT-03:00 2025
+Tempo total: 8,72 segundos

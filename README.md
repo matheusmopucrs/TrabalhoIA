@@ -30,7 +30,6 @@ java -Xmx4g TrabalhoIA
 
 ## 📸 Prints de Execução
 
-*Adicione aqui imagens mostrando a execução do programa, exemplos de entrada e saída, etc.*
 ![image](https://github.com/user-attachments/assets/cc025566-421c-4684-a215-760bb389ea2c)
 
 

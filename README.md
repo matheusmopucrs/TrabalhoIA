@@ -32,7 +32,7 @@ java -Xmx4g TrabalhoIA
 
 ![image](https://github.com/user-attachments/assets/cc025566-421c-4684-a215-760bb389ea2c)
 
-
+> 💡Link da Apresentação: https://www.canva.com/design/DAGmsvT9EFc/ki253-SUp354mhbJlHzQRw/edit?utm_content=DAGmsvT9EFc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 

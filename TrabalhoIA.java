@@ -1,3 +1,6 @@
+// Nome: TrabalhoIA.java
+// Autor: Bernardo e Matheus
+
 package TrabalhoIA;
 import java.io.*;
 import java.util.*;
@@ -19,7 +22,7 @@ public class TrabalhoIA {
         System.out.println("5 - Impossível");
         System.out.println("Escolha o nível de dificuldade (1 - 5): ");
         int opcao = scanner.nextInt();
-        scanner.nextLine(); // limpa o buffer
+        scanner.nextLine(); 
 
         String gridFile = "";
         String wordFile = "";
@@ -83,13 +86,13 @@ public class TrabalhoIA {
 
             Map<Integer, List<int[]>> constraintMap = precomputeConstraints(constraints, slots.size());
 
-            List<Set<String>> domains = new ArrayList<>();
+            List<Set<String>> possibilities = new ArrayList<>();
             for (Slot s : slots) {
-                domains.add(new HashSet<>(wordsByLength.getOrDefault(s.length, new ArrayList<>())));
+                possibilities.add(new HashSet<>(wordsByLength.getOrDefault(s.length, new ArrayList<>())));
             }
 
             Set<String> usedWords = new HashSet<>();
-            Map<Integer, String> assignment = backtrack(new HashMap<>(), domains, slots, constraintMap, log, startTime, maxDuration, usedWords);
+            Map<Integer, String> assignment = backtrack(new HashMap<>(), possibilities, slots, constraintMap, log, startTime, maxDuration, usedWords);
 
             if (assignment == null) {
                 log.add("Nenhuma solução encontrada");
@@ -202,6 +205,7 @@ public class TrabalhoIA {
         return slots;
     }
 
+    // Encontra todas as restrições entre slots horizontais e verticais - Ajudado por IA
     static List<int[]> findConstraints(List<Slot> slots) {
         List<int[]> constraints = new ArrayList<>();
         for (int i = 0; i < slots.size(); i++) {
@@ -222,6 +226,7 @@ public class TrabalhoIA {
         return constraints;
     }
 
+    //- Ajudado por IA
     static Map<Integer, List<int[]>> precomputeConstraints(List<int[]> constraints, int numSlots) {
         Map<Integer, List<int[]>> constraintMap = new HashMap<>();
         for (int i = 0; i < numSlots; i++) constraintMap.put(i, new ArrayList<>());
@@ -234,6 +239,7 @@ public class TrabalhoIA {
     }
 
     // Verifica se uma palavra pode ser atribuída a um slot considerando os vizinhos já preenchidos
+    // Verifica a palavra é consistente com as restrições
     static boolean isConsistent(int slotId, String word, Map<Integer, String> assignment, Map<Integer, List<int[]>> constraintMap) {
         for (int[] c : constraintMap.get(slotId)) {
             int otherSlot = c[0], index1 = c[1], index2 = c[2];
@@ -244,18 +250,18 @@ public class TrabalhoIA {
         return true;
     }
 
-    // Forward checking
-    static boolean forwardCheck(int slotId, String word, List<Set<String>> domains, Map<Integer, List<int[]>> constraintMap, Map<Integer, List<String>> removed) {
+    // Forward checking: remove palavras inconsistentes - Ajudado por IA
+    static boolean forwardCheck(int slotId, String word, List<Set<String>> possibilities, Map<Integer, List<int[]>> constraintMap, Map<Integer, List<String>> removed) {
         for (int[] constraint : constraintMap.get(slotId)) {
             int otherSlot = constraint[0], index1 = constraint[1], index2 = constraint[2];
-            Set<String> domain = domains.get(otherSlot);
+            Set<String> domain = possibilities.get(otherSlot);
             List<String> toRemove = new ArrayList<>();
             for (String w : domain) {
                 if (w.charAt(index2) != word.charAt(index1)) {
                     toRemove.add(w);
                 }
             }
-            // Ajuda de IA - remove palavras inconsistentes
+            
             if (!toRemove.isEmpty()) {
                 removed.computeIfAbsent(otherSlot, k -> new ArrayList<>()).addAll(toRemove);
                 domain.removeAll(toRemove);
@@ -265,28 +271,30 @@ public class TrabalhoIA {
         return true;
     }
 
-    static void restoreDomains(List<Set<String>> domains, Map<Integer, List<String>> removed) {
+    // Restaura palavras removidas das possibilidades após backtracking
+    static void restoreDomains(List<Set<String>> possibilities, Map<Integer, List<String>> removed) {
         for (Map.Entry<Integer, List<String>> entry : removed.entrySet()) {
-            domains.get(entry.getKey()).addAll(entry.getValue());
+            possibilities.get(entry.getKey()).addAll(entry.getValue());
         }
     }
 
-    static Map<Integer, String> backtrack(Map<Integer, String> assignment, List<Set<String>> domains, List<Slot> slots, Map<Integer, List<int[]>> constraintMap, List<String> log, long startTime, int maxDuration, Set<String> usedWords) {
+    // Backtracking com MRV e LCV para encontrar uma solução
+    static Map<Integer, String> backtrack(Map<Integer, String> assignment, List<Set<String>> possibilities, List<Slot> slots, Map<Integer, List<int[]>> constraintMap, List<String> log, long startTime, int maxDuration, Set<String> usedWords) {
         if (System.currentTimeMillis() - startTime > maxDuration * 1000) {
             throw new RuntimeException("Execution exceeded time limit of " + maxDuration + " seconds");
         }
         if (assignment.size() == slots.size()) return assignment;
 
-        // MRV + grau: escolhe variável com menor domínio e mais restrições
-        // Ajuda de IA
+        // MRV + grau: escolhe variável com menor possibilidades e mais restrições
+        // - Ajudado por IA
         Set<Integer> unassigned = new HashSet<>();
         for (int i = 0; i < slots.size(); i++) if (!assignment.containsKey(i)) unassigned.add(i);
         int slotId = Collections.min(unassigned, Comparator
-            .comparingInt((Integer s) -> domains.get(s).size())
+            .comparingInt((Integer s) -> possibilities.get(s).size())
             .thenComparingInt(s -> -constraintMap.get(s).size()));
 
         // LCV: ordena palavras por menor comprimento
-        List<String> values = new ArrayList<>(domains.get(slotId));
+        List<String> values = new ArrayList<>(possibilities.get(slotId));
         values.sort(Comparator.comparingInt(String::length));
 
         for (String word : values) {
@@ -296,19 +304,20 @@ public class TrabalhoIA {
                 assignment.put(slotId, word);
                 usedWords.add(word);
                 Map<Integer, List<String>> removed = new HashMap<>();
-                if (forwardCheck(slotId, word, domains, constraintMap, removed)) {
-                    Map<Integer, String> result = backtrack(new HashMap<>(assignment), domains, slots, constraintMap, log, startTime, maxDuration, usedWords);
+                if (forwardCheck(slotId, word, possibilities, constraintMap, removed)) {
+                    Map<Integer, String> result = backtrack(new HashMap<>(assignment), possibilities, slots, constraintMap, log, startTime, maxDuration, usedWords);
                     if (result != null) return result;
                 }
                 log.add("Backtracking from slot " + slotId);
                 assignment.remove(slotId);
                 usedWords.remove(word);
-                restoreDomains(domains, removed);
+                restoreDomains(possibilities, removed);
             }
         }
         return null;
     }
 
+    // Preenche a grade com as palavras atribuídas
     static List<String> fillGrid(List<String> grid, List<Slot> slots, Map<Integer, String> assignment) {
         List<char[]> filled = grid.stream().map(String::toCharArray).collect(Collectors.toList());
         for (Map.Entry<Integer, String> entry : assignment.entrySet()) {

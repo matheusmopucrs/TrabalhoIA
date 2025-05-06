@@ -1,4 +1,4 @@
-Início: Sun May 04 18:54:08 GMT-03:00 2025
+Início: Mon May 05 23:15:41 GMT-03:00 2025
 Slots encontrados: 34
 Restrições definidas: 73
 Assigning '#ED' to slot 5 (h_5_6_3)
@@ -51,5 +51,5 @@ Assigning 'RIGODON' to slot 13 (h_10_8_7)
 Assigning 'DATUM' to slot 32 (v_10_12_5)
 Solução encontrada
 Grade preenchida escrita em: output2.txt
-Término: Sun May 04 18:54:09 GMT-03:00 2025
-Tempo total: 0,63 segundos
+Término: Mon May 05 23:15:42 GMT-03:00 2025
+Tempo total: 0,66 segundos

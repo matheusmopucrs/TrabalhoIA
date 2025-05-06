@@ -1,6 +1,6 @@
-Starting at Sun May 04 18:02:26 GMT-03:00 2025
-Found 334 slots
-Defined 626 constraints
+Início: Mon May 05 23:16:01 GMT-03:00 2025
+Slots encontrados: 334
+Restrições definidas: 626
 Assigning '#ED' to slot 8 (h_3_16_3)
 Assigning 'DOG#' to slot 232 (v_0_16_4)
 Assigning 'DHED' to slot 242 (v_0_18_4)
@@ -439,7 +439,7 @@ Assigning 'DIAM' to slot 136 (h_45_0_4)
 Assigning 'AAC' to slot 160 (v_45_2_3)
 Assigning 'ENCGE' to slot 175 (v_43_5_5)
 Assigning 'ENABLE' to slot 129 (h_43_0_6)
-Solution found
-Filled grid written to output4.txt
-Finished at Sun May 04 18:02:39 GMT-03:00 2025
-Total time: 12,26 seconds
+Solução encontrada
+Grade preenchida escrita em: output4.txt
+Término: Mon May 05 23:16:11 GMT-03:00 2025
+Tempo total: 10,29 segundos

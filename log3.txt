@@ -1,4 +1,4 @@
-Início: Sun May 04 19:36:03 GMT-03:00 2025
+Início: Mon May 05 23:15:45 GMT-03:00 2025
 Slots encontrados: 88
 Restrições definidas: 132
 Assigning '#ED' to slot 53 (v_7_5_3)
@@ -97,5 +97,5 @@ Assigning 'DICE' to slot 3 (h_3_0_4)
 Assigning 'FEFI' to slot 44 (v_0_1_4)
 Solução encontrada
 Grade preenchida escrita em: output3.txt
-Término: Sun May 04 19:36:12 GMT-03:00 2025
-Tempo total: 8,72 segundos
+Término: Mon May 05 23:15:54 GMT-03:00 2025
+Tempo total: 8,42 segundos

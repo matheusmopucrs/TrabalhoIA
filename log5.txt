@@ -1,4 +1,4 @@
-Início: Sun May 04 18:58:34 GMT-03:00 2025
+Início: Tue May 06 15:01:47 GMT-03:00 2025
 Slots encontrados: 532
 Restrições definidas: 986
 Assigning 'HH' to slot 45 (h_12_17_2)
@@ -1129,5 +1129,5 @@ Assigning 'MRATING' to slot 530 (v_50_39_7)
 Assigning 'EBER' to slot 212 (h_51_36_4)
 Solução encontrada
 Grade preenchida escrita em: output5.txt
-Término: Sun May 04 18:58:50 GMT-03:00 2025
-Tempo total: 16,31 segundos
+Término: Tue May 06 15:02:03 GMT-03:00 2025
+Tempo total: 16,70 segundos
